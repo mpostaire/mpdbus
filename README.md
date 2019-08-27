@@ -12,7 +12,6 @@ Open a terminal and launch the program using the `mpdbus` command.
 Usage: mpdbus [OPTIONS]
   -d, --daemon          Launch as a daemon.
   -h, --help            Show this message.
-  -p, --password        mpd server password (default: none).
   -H, --host            mpd server host (default: localhost).
   -P, --port            mpd server port (default: 6600).
 ```
