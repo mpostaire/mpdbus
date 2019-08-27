@@ -1,0 +1,10 @@
+*
+!*.*
+!src
+!Makefile
+*.swp
+.vscode
+*.o
+mpdbus-dbus.c
+mpdbus-dbus.h
+*.log
